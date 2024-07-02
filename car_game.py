@@ -1,5 +1,5 @@
 # https://youtu.be/XDM6UmnMCDE?si=mjhbJ-W6lQgiPL_p
-
+# https://srituhobby.com/how-to-use-the-mpu6050-sensor-module-with-raspberry-pi-board/
 import pygame
 from pygame.locals import *
 import random
